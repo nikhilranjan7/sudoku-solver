@@ -24,9 +24,14 @@ For this sudoku input:
 
 ## Algorithms detail
 ### [Constraint propagation](http://www.lirmm.fr/~bessiere/stock/TR06020.pdf)
-...Used in functions **elimination** and **naked_twin** to eliminate the possibility of presence of any digit if it is ...present in corresponding row, column or square.
+Used in functions **elimination** and **naked_twin** in ```utils.py``` to eliminate the possibility of presence of any digit if it is present in corresponding row, column or square.
 
 ### [Search](http://intelligence.worldofcomputing.net/ai-search/depth-first-search.html)
-...Implemented recursion techniques to create depth-first-search trees for solving hard sudokus that need guess work in ...any particular box to proceed.
+Implemented recursion techniques to create depth-first-search trees for solving hard sudokus that need guess work in any particular box to proceed.
 
-## Sudoku techniques
+## Sudoku strategy
+* Only choice rule
+*
+*
+*
+*Naked Twin exclusion rule
