@@ -22,7 +22,7 @@ For this sudoku input:
 4.....8.5.3..........7......2.....6.....8.4......1.......6.3.7.5..2.....1.4......
 ```
 
-## Algorithms detail
+## [Algorithms detail](http://norvig.com/sudoku.html)
 ### [Constraint propagation](http://www.lirmm.fr/~bessiere/stock/TR06020.pdf)
 Used in functions **elimination** and **naked_twin** in ```utils.py``` to eliminate the possibility of presence of any digit if it is present in corresponding row, column or square.
 
