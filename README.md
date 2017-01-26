@@ -34,6 +34,6 @@ Implemented recursion techniques to create depth-first-search trees for solving 
 * Single possibility rule
 * Naked Twin exclusion rule
 
-MIT License
+### MIT License
 
-Copyright (c) 2017 Nikhil Ranjan
+Copyright (c) 2017 [Nikhil Ranjan](http://nikhilranjan7.github.io)
