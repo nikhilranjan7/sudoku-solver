@@ -29,9 +29,7 @@ Used in functions **elimination** and **naked_twin** in ```utils.py``` to elimin
 ### [Search](http://intelligence.worldofcomputing.net/ai-search/depth-first-search.html)
 Implemented recursion techniques to create depth-first-search trees for solving hard sudokus that need guess work in any particular box to proceed.
 
-## Sudoku strategy
+## [Sudoku strategy](http://sudokudragon.com/sudokustrategy.htm)
 * Only choice rule
-*
-*
-*
-*Naked Twin exclusion rule
+* Single possibility rule
+* Naked Twin exclusion rule
