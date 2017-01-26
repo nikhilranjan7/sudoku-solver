@@ -33,3 +33,7 @@ Implemented recursion techniques to create depth-first-search trees for solving 
 * Only choice rule
 * Single possibility rule
 * Naked Twin exclusion rule
+
+MIT License
+
+Copyright (c) 2017 Nikhil Ranjan
